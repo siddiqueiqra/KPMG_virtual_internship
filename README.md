@@ -1,1 +1,2 @@
 # KPMG_virtual_internship
+"I recently completed virtual internship at KPMG, where I worked on this program.I gained hands-on experience in data analysis, visualization, and reporting. I worked on kpmg project for client, including analyzing large data sets, creating reports and dashboards, and presenting insights to stakeholders. I also learned how to use various data analysis tools and techniques, such as SQL, Python, and Tableau.
